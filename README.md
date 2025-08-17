@@ -110,9 +110,6 @@ The ensemble model is trained to classify plant leaves into 4 categories:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -120,13 +117,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Streamlit for the web application framework
 - Pre-trained models from ImageNet
 
-## 📞 Support
 
-If you encounter any issues or have questions:
-- Open an issue on GitHub
-- Check the project documentation
-- Review the code comments for implementation details
-
----
 
 **Note**: Make sure to download the `model.h5` file containing the pre-trained weights before running the application. The model file is not included in this repository due to size constraints.
